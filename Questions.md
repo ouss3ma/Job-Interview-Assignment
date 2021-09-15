@@ -1,4 +1,4 @@
-# Programming Challenges for HD Energy -- Data Scientist position
+# Programming Challenges for Data Scientist position
 
 #### Q1. Regular find function for list
 Describe (with pseudocode or real code) how to find an element by value in an unsorted list (i.e. define the "find" function for a list, with a list and a value as inputs). The function should return the index of the element found. What should you return if the element is not in the list?
